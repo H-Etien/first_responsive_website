@@ -1,1 +1,5 @@
-# first_responsive_website
+# first responsive website
+
+---
+
+Utilisation des class et des media screen.
